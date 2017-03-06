@@ -1,4 +1,4 @@
 title: A bit-by-bit guide to differentiable neural computers
-
-
 theme: jekyll-theme-minimal
+markdown: kramdown
+mathjax: true
