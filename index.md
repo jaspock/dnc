@@ -11,4 +11,4 @@ This guide tries to gently teach you the different actors in the differentiable 
 
 Inline math $x$, $y$, $x_1$, $y_1$.
 
-Inline math with special character: $\psi\int_0^\infty i$, $x'$, $x^\*$.
+Inline math with a special character: $\psi\int_0^\infty i$, $x'$, $x^\*$.
