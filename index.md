@@ -1,12 +1,14 @@
 ---
-title: Hello
-layout: default
+title: A bit-by-bit guide to differentiable neural computers
 author: Juan Antonio Pérez-Ortiz
+layout: default
 use_math: true
 ---
 
-# Neural
+This guide tries to gently teach you the different actors in the differentiable neural computer model.
 
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
+# Introduction
 
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
+Inline math $x$, $y$, $x_1$, $y_1$.
+
+Inline math with special character: $\psi\int_0^\infty i$, $x'$, $x^\*$.
